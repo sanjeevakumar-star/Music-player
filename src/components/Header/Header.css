@@ -1,0 +1,28 @@
+.flexbox-container{
+    padding: 10px 0 0 60px;
+    flex-direction: row;
+}
+.user-profile{
+    color: #ccc;
+    display: flex;
+    justify-items: flex-end;
+}
+.user-profile span{
+    margin-top: 10px;
+}
+.card-img-top{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+
+.search-btn{
+  width: 240px;
+  box-sizing: border-box;
+  border: 0px solid #ccc;
+  background-color: var(--navBg);
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 400;
+  padding-top: 10px;
+}

@@ -1,0 +1,19 @@
+:root {
+  --navBg: #070d30;
+}
+.App{
+  background-color: var(--navBg);
+  height: 100%;
+}
+.container{
+  position: 'absolute';
+    display: flex;
+    justify-content: end;
+}
+
+
+.sideBar{
+  background-color: #1f2646;
+    color: #999595;
+}
+

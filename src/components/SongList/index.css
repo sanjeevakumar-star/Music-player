@@ -1,0 +1,40 @@
+.songList-container{
+    margin-left: 35px;
+    margin-bottom: 30px;
+}
+.songList-container h3{
+    margin-left: 35px;
+    color: #999595;
+}
+
+.card-body{
+    padding-left:40px;
+    line-height: 0%;
+
+}
+.card-body p{
+    font-size: 14px;
+    color: #999595;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-weight: 600;
+    padding-left: 5px;
+}
+.card-body span{
+    font-size: 12px;
+    color: #999595;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    line-height: 5px;
+}
+.card-img{
+    width: 130px;
+    height: 120px;
+    border-radius: 10px;
+}
+
+
+
+   

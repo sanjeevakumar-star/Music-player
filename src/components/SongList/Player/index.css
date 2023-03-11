@@ -1,0 +1,20 @@
+.audio-player{
+    background-color: #1f2646;
+    color: #999595;
+    height: 60px;
+   }
+   .rhap_button-clear{
+    color: white;
+   }
+   .rhap_skip-button{
+    display: none;
+   }
+   .rhap_play-pause-button{
+    background-color: #1f2646;
+   }
+   .rhap_current-time{
+    color: #999595;
+   }
+   .rhap_total-time{
+    color: #999595;
+   }
